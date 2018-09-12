@@ -9,3 +9,38 @@ Author: chiadi <lcim1104@gmail.com>
 Date:   Mon Sep 10 16:34:43 2018 +0100
 
     added readme.txt
+commit c0381f056d54d3ed89a2da668bdc27b3c0a67968
+Author: chiadi <lcim1104@gmail.com>
+Date:   Wed Sep 12 18:20:12 2018 +0100
+
+    Udoka has been added to readme.txt
+
+commit c73964f3bc93d57a73d6cab6a7b57aa769005dd2
+Author: chiadi <lcim1104@gmail.com>
+Date:   Wed Sep 12 18:07:39 2018 +0100
+
+    created a new branch, edited readme.txt, and commited the change.
+
+commit 8df83ec908590528cee7dbda7a7349671f12ea3d
+Author: chiadi <lcim1104@gmail.com>
+Date:   Wed Sep 12 12:58:23 2018 +0100
+
+    aditxt modified
+
+commit 48a9c9fc21424425ac37c7e84bb9d59936195f93
+Author: chiadi <lcim1104@gmail.com>
+Date:   Wed Sep 12 12:56:45 2018 +0100
+
+    aditxt added
+
+commit 58eb22ab3a98020f5d3264a03942fb235d136ad8
+Author: chiadi <lcim1104@gmail.com>
+Date:   Wed Sep 12 11:34:38 2018 +0100
+
+    more files added
+
+commit 2c08bcc1fdba80765a901462547b74ff0c8b1468
+Author: chiadi <lcim1104@gmail.com>
+Date:   Mon Sep 10 16:34:43 2018 +0100
+
+    added readme.txt
