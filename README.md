@@ -9,7 +9,7 @@ Three of my favourite books are:
 
  - *Animal farm* by George Orwell
  - *The Concubine* by Elechi Amadi
- - * Things Fall Apart* by Chinua Achebe
+ - *Things Fall Apart* by Chinua Achebe
 
 ### Food
  Nwanne, dreaming about food is unacceptable; spirits don't eat. Some of the nice places i have eaten or would love to eat out at are:
